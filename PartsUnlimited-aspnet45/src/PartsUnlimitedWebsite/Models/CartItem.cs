@@ -19,6 +19,3 @@ namespace PartsUnlimited.Models
         public virtual Product Product { get; set; }
     }
 }
-//My first change
-//My second change
-//I am the king
